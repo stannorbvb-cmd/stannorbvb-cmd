@@ -36,6 +36,9 @@ My work lives in the [Omarchy](https://omarchy.org) ecosystem: an opinionated Ar
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
 </div>
 

@@ -22,7 +22,6 @@ I craft visual environments for the terminal native and the web alike. By day, a
 Each theme is a deliberate aesthetic system — palette, contrast ratios, and syntax harmony tuned together, not bolted on.
 ---
 
-
 ## Stack
 
 <div align="center">
@@ -31,6 +30,9 @@ Each theme is a deliberate aesthetic system — palette, contrast ratios, and sy
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Ghostty](https://img.shields.io/badge/Ghostty-1a1a2e?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-1a1a1a?style=for-the-badge&logo=kitty&logoColor=white)
+![ThinkPad](https://img.shields.io/badge/ThinkPad-EE0000?style=for-the-badge&logo=lenovo&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)

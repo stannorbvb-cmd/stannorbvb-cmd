@@ -33,6 +33,7 @@ My work lives in the [Omarchy](https://omarchy.org) ecosystem: an opinionated Ar
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 

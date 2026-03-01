@@ -2,7 +2,7 @@
 """
 Scans stannorbvb-cmd's public repos for a preview.png.
 Any repo that has one is treated as a theme and added to the README.
-Repos are sorted by star count descending.
+Order is defined by THEME_ORDER — new themes without an entry are appended at the end.
 """
 
 import os
@@ -11,10 +11,17 @@ import json
 import urllib.request
 
 USERNAME = "stannorbvb-cmd"
-SKIP_REPOS = {USERNAME}  # skip the profile repo itself
+SKIP_REPOS = {USERNAME}
 
-# Descriptions for known themes — add yours here as you create new ones.
-# Any repo without an entry gets a generic fallback.
+# --- Control display order here ---
+THEME_ORDER = [
+    "bardo",
+    "synthetica",
+    "cpunk",
+    "akaito",
+]
+
+# --- Control descriptions here ---
 DESCRIPTIONS = {
     "cpunk":     "Dark. Abrasive. Neon-lit. A theme for when the work feels like digging through corporate firewalls at 2am.",
     "synthetica":"Synthetic warmth. Analogue haze. The sound of a modular synth rendered in CSS.",
@@ -44,19 +51,24 @@ def has_preview(repo_name):
 
 def get_themes():
     repos = gh_get(f"users/{USERNAME}/repos?per_page=100&type=public")
-    themes = []
+    found = {}
     for repo in repos:
         name = repo["name"]
         if name in SKIP_REPOS or repo.get("fork"):
             continue
         if has_preview(name):
-            themes.append({
+            found[name] = {
                 "name": name,
-                "stars": repo.get("stargazers_count", 0),
-                "description": DESCRIPTIONS.get(name, f"A custom Omarchy theme."),
-            })
-    themes.sort(key=lambda t: t["stars"], reverse=True)
-    return themes
+                "description": DESCRIPTIONS.get(name, "A custom Omarchy theme."),
+            }
+
+    # Sort by THEME_ORDER first, then append any new themes not in the list
+    ordered = []
+    for name in THEME_ORDER:
+        if name in found:
+            ordered.append(found.pop(name))
+    ordered.extend(found.values())  # new themes get appended at the end
+    return ordered
 
 
 def build_table(themes):
@@ -70,7 +82,6 @@ def build_table(themes):
       <p>{theme['description']}</p>
       <img src="https://raw.githubusercontent.com/{USERNAME}/{theme['name']}/main/preview.png" width="100%"/>
     </td>\n"""
-        # pad with empty cell if odd number of themes
         if len(pair) == 1:
             cells += '    <td width="50%"></td>\n'
         rows.append(f"  <tr>\n{cells}  </tr>")
@@ -81,7 +92,6 @@ def update_readme(table):
     with open("README.md", "r") as f:
         content = f.read()
 
-    # Replace everything between ## Themes and the next --- or ##
     new_content = re.sub(
         r"## Themes\n.*?(?=\n---|\n##)",
         table + "\n",

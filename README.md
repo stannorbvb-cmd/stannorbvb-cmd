@@ -79,7 +79,6 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
 </table>
 
 ---
----
 
 ## Web Design
 

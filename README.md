@@ -30,28 +30,27 @@ My work lives in the [Omarchy](https://omarchy.org) ecosystem: an opinionated Ar
     <td width="50%">
       <h3><a href="https://github.com/stannorbvb-cmd/cpunk">cpunk</a></h3>
       <p>Dark. Abrasive. Neon-lit. A theme for when the work feels like digging through corporate firewalls at 2am.</p>
-      <img src="https://img.shields.io/github/stars/stannorbvb-cmd/cpunk?style=flat-square&color=ff4444&label=★"/>
+      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/cpunk/main/preview.png" width="100%"/>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/stannorbvb-cmd/synthetica">synthetica</a></h3>
       <p>Synthetic warmth. Analogue haze. The sound of a modular synth rendered in CSS.</p>
-      <img src="https://img.shields.io/github/stars/stannorbvb-cmd/synthetica?style=flat-square&color=ff4444&label=★"/>
+      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/synthetica/main/preview.png" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/stannorbvb-cmd/bardo">bardo</a></h3>
       <p>The space between. Muted tones, deliberate contrasts — designed for long sessions and clear thinking.</p>
-      <img src="https://img.shields.io/github/stars/stannorbvb-cmd/bardo?style=flat-square&color=ff4444&label=★"/>
+      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/bardo/main/preview.png" width="100%"/>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/stannorbvb-cmd/akaito">akaito</a></h3>
       <p>Light, precise, uncompromising. A rare thing: a light theme that doesn't apologize for itself.</p>
-      <img src="https://img.shields.io/github/stars/stannorbvb-cmd/akaito?style=flat-square&color=ff4444&label=★"/>
+      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/akaito/main/preview.png" width="100%"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ## Stack

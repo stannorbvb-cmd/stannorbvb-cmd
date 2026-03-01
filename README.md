@@ -77,3 +77,34 @@ Each theme is a deliberate aesthetic system — palette, contrast ratios, and sy
 </table>
 
 ---
+---
+
+## Web Design
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>⬡ <a href="https://rolangsrecords.com">Rolangs Records</a></h3>
+      <p>Music label identity and digital presence.</p>
+    </td>
+    <td width="33%">
+      <h3>◈ <a href="https://bigfuz.com">Big Fuz</a></h3>
+      <p>Brand web experience, built to stand out.</p>
+    </td>
+    <td width="33%">
+      <h3>⬢ <a href="https://hotelkesaarpalace.com">Kesaar Palace</a></h3>
+      <p>Hospitality and luxury hotel showcase.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3>◉ <a href="https://destinationladakhtourism.in">Destination Ladakh</a></h3>
+      <p>Tourism platform for the Himalayan frontier.</p>
+    </td>
+    <td width="33%">
+      <h3>⬟ <a href="https://ladakhhimalayanhub.com">Ladakh Himalayan Hub</a></h3>
+      <p>Adventure and travel hub for Ladakh explorers.</p>
+    </td>
+    <td width="33%"></td>
+  </tr>
+</table>

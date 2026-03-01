@@ -98,7 +98,7 @@ Each theme is a deliberate aesthetic system — palette, contrast ratios, and sy
   </tr>
   <tr>
     <td width="33%">
-      <h3>◉ <a href="https://destinationladakhtourism.in">Destination Ladakh</a></h3>
+      <h3>◉ <a href="https://destinationladakh.in/">Destination Ladakh Tourism.Co</a></h3>
       <p>Tourism platform for the Himalayan frontier.</p>
     </td>
     <td width="33%">

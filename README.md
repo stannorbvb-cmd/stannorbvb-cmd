@@ -13,13 +13,13 @@
 ```
 
 <div align="center">
-  <sub>theme designer · linux ricing · omarchy</sub>
+  <sub>web designer · linux ricing · omarchy</sub>
 </div>
 
 ---
 I craft visual environments for the terminal native and the web alike. By day, a web designer building sites with WordPress and Elementor that are as considered as they are functional. By night, a Linux ricer crafting themes for the [Omarchy](https://omarchy.org) ecosystem: an opinionated Arch + Hyprland + Neovim setup for those who believe their tools should be beautiful.
 
-Each theme is a deliberate aesthetic system — palette, contrast ratios, and syntax harmony tuned together, not bolted on.
+Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax harmony tuned together, not bolted on.
 ---
 
 ## Stack

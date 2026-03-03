@@ -23,7 +23,7 @@ I craft visual environments for the terminal native and the web alike. By day, a
 Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax harmony tuned together, not bolted on.
 ---
 
-## Stack
+## Tech Stack
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -89,7 +89,8 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
   <tr>
     <td width="33%">
       <h3>⬡ <a href="https://rolangsrecords.com">Rolangs Records</a></h3>
-      <p>Record Store.</p>
+     <img width="1451" height="1305" alt="screenshot-2026-03-03_15-56-51" src="https://github.com/user-attachments/assets/7def98cc-3817-4382-b0bd-68ff2d2b5f01" />
+  <p>Record Store.</p>
     </td>
     <td width="33%">
       <h3>◈ <a href="https://bigfuz.com">Big Fuz</a></h3>

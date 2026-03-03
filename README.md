@@ -94,21 +94,26 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
     </td>
     <td width="33%">
       <h3>◈ <a href="https://bigfuz.com">Big Fuz</a></h3>
-      <p>JamPad.</p>
+
+<img width="462" height="356" alt="screenshot-2026-03-03_15-59-08" src="https://github.com/user-attachments/assets/b647c0c1-3b04-4455-9efe-d2cf8f71875e" />
+  <p>JamPad.</p>
     </td>
     <td width="33%">
       <h3>⬢ <a href="https://hotelkesaarpalace.com">Kesaar Palace</a></h3>
-      <p>Luxury hotel showcase.</p>
+<img width="176" height="172" alt="screenshot-2026-03-03_16-00-53" src="https://github.com/user-attachments/assets/84fa0e70-162e-429b-bb47-9aa2f3071cce" />
+ <p>Luxury hotel showcase.</p>
     </td>
   </tr>
   <tr>
     <td width="33%">
       <h3>◉ <a href="https://destinationladakh.in/">Destination Ladakh Tourism.Co</a></h3>
-      <p>Tourism platform for the Himalayan frontier.</p>
+       <img width="176" height="172" alt="screenshot-2026-03-03_16-00-53" src="https://github.com/user-attachments/assets/2bc47391-ccc3-4300-a2c5-23d452364a9c" />
+ <p>Tourism platform for the Himalayan frontier.</p>
     </td>
     <td width="33%">
       <h3>⬟ <a href="https://ladakhhimalayanhub.com">Ladakh Himalayan Hub</a></h3>
-      <p>Adventure and travel hub for Ladakh explorers.</p>
+       <img width="238" height="179" alt="screenshot-2026-03-03_16-03-09" src="https://github.com/user-attachments/assets/d8a383e8-005d-4fb7-99e5-581c5f59b38d" />
+  <p>Adventure and travel hub for Ladakh explorers.</p>
     </td>
     <td width="33%"></td>
   </tr>

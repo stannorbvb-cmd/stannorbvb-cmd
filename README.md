@@ -87,27 +87,35 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
 
 <table>
   <tr>
-    <td width="20%">
+    <td width="50%">
       <h3>⬡ <a href="https://rolangsrecords.com">Rolangs Records</a></h3>
       <img src="https://github.com/user-attachments/assets/c0774b30-38b4-4a93-bd3d-80ed45bc5254" width="100%"/>
       <p>Record Store.</p>
     </td>
-    <td width="20%">
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>◈ <a href="https://bigfuz.com">Big Fuz</a></h3>
       <img src="https://github.com/user-attachments/assets/f169392a-c52b-40db-b613-d61da5e5770a" width="100%"/>
       <p>JamPad.</p>
     </td>
-    <td width="20%">
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>⬢ <a href="https://hotelkesaarpalace.com">Kesaar Palace</a></h3>
       <img src="https://github.com/user-attachments/assets/d9be721e-20e0-4efe-9c3d-d8d70c771b61" width="100%"/>
       <p>Luxury hotel showcase.</p>
     </td>
-    <td width="20%">
-      <h3>◉ <a href="https://destinationladakh.in/">Destination Ladakh</a></h3>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>◉ <a href="https://destinationladakh.in/">Destination Ladakh Tourism.Co</a></h3>
       <img src="https://github.com/user-attachments/assets/e7d6df4a-2762-430a-a506-00490f0ccea2" width="100%"/>
       <p>Tourism platform for the Himalayan frontier.</p>
     </td>
-    <td width="20%">
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>⬟ <a href="https://ladakhhimalayanhub.com">Ladakh Himalayan Hub</a></h3>
       <img src="https://github.com/user-attachments/assets/62cb3651-7a95-477f-bc2b-5f232b7812b0" width="100%"/>
       <p>Adventure and travel hub for Ladakh explorers.</p>

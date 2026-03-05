@@ -22,7 +22,6 @@ I craft visual environments for the terminal native and the web alike. By day, a
 
 Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax harmony tuned together, not bolted on.
 ---
-
 ## Tech Stack
 
 <div align="center">
@@ -31,6 +30,7 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Ghostty](https://img.shields.io/badge/Ghostty-1a1a2e?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Kitty](https://img.shields.io/badge/Kitty-1a1a1a?style=for-the-badge&logo=kitty&logoColor=white)

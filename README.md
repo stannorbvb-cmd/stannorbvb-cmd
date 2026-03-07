@@ -84,7 +84,7 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/stannorbvb-cmd/axionmorph">axionmorph</a></h3>
-      <p>A futuristic Hyprland theme inspired by early **2000s blob morphism**, experimental interface design, and neon plasma aesthetics.</p>
+      <p>A custom Omarchy theme.</p>
       <img src="https://raw.githubusercontent.com/stannorbvb-cmd/axionmorph/main/preview.png" width="100%"/>
     </td>
     <td width="50%"></td>

@@ -87,7 +87,11 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
       <p>A custom Omarchy theme.</p>
       <img src="https://raw.githubusercontent.com/stannorbvb-cmd/axionmorph/main/preview.png" width="100%"/>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h3><a href="https://github.com/stannorbvb-cmd/omarchy-root-yaru-theme">omarchy-root-yaru-theme</a></h3>
+      <p>A custom Omarchy theme.</p>
+      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/omarchy-root-yaru-theme/main/preview.png" width="100%"/>
+    </td>
   </tr>
 </table>
 

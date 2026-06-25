@@ -97,7 +97,6 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
 
 ---
 ## Web Design
-
 <table>
   <tr>
     <td width="50%">
@@ -113,45 +112,45 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
   </tr>
   <tr>
     <td width="50%">
-      <h3>⬢ <a href="https://hotelkesaarpalace.com">Kesaar Palace</a></h3>
-      <img src="https://github.com/user-attachments/assets/d9be721e-20e0-4efe-9c3d-d8d70c771b61" width="100%"/>
-      <p>Luxury hotel showcase.</p>
+      <h3>⏃ <a href="https://ladakhbiketriporganiser.com">Ladakh Bike Trip Organiser</a></h3>
+      <img width="1024" height="1024" alt="LBTO" src="https://github.com/user-attachments/assets/2243133e-618f-4684-a5b9-8e279532c460" />
+      <p>Himalayan motorcycle expeditions across Ladakh, Spiti, Nepal & Bhutan.</p>
     </td>
-    <td width="50%">
-      <h3>◉ <a href="https://destinationladakh.in/">Destination Ladakh Tourism.Co</a></h3>
-      <img src="https://github.com/user-attachments/assets/e7d6df4a-2762-430a-a506-00490f0ccea2" width="100%"/>
-      <p>Tourism platform for the Himalayan frontier.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>◬ <a href="https://thevintagevillas.com">The Vintage Villas</a></h3>
-      <img width="2000" height="2000" alt="1" src="https://github.com/user-attachments/assets/e640bbc3-12c1-4588-8efe-88494a8f1591" />
-      <p>Boutique villa experience.</p>
-    </td>
-    <td width="50%">
-      <h3>⬟ <a href="https://ladakhhimalayanhub.com">Ladakh Himalayan Hub</a></h3>
-      <img src="https://github.com/user-attachments/assets/62cb3651-7a95-477f-bc2b-5f232b7812b0" width="100%"/>
-      <p>Adventure and travel hub for Ladakh explorers.</p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>⌬ <a href="https://astentours.com">Asten Tours</a></h3>
-    <img width="1555" height="1117" alt="Aturs-logo-cropped" src="https://github.com/user-attachments/assets/8d540559-59e6-4a77-a444-0fb27a1e37dd" />
+      <img width="1555" height="1117" alt="Aturs-logo-cropped" src="https://github.com/user-attachments/assets/8d540559-59e6-4a77-a444-0fb27a1e37dd" />
       <p>Customized Ladakh tours, BnB stays, and bike & taxi rentals.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>❀ <a href="https://ladakhherbs.com">LadakhHerbs</a></h3>
       <img width="806" height="806" alt="log" src="https://github.com/user-attachments/assets/0be085ac-d921-4fe3-bde0-9727b51df2ed" />
       <p>Organic Himalayan products straight from the valleys of Ladakh.</p>
     </td>
+    <td width="50%">
+      <h3>⬢ <a href="https://hotelkesaarpalace.com">Kesaar Palace</a></h3>
+      <img src="https://github.com/user-attachments/assets/d9be721e-20e0-4efe-9c3d-d8d70c771b61" width="100%"/>
+      <p>Luxury hotel showcase.</p>
+    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>⏃ <a href="https://ladakhbiketriporganiser.com">Ladakh Bike Trip Organiser</a></h3>
-      <img width="1024" height="1024" alt="LBTO" src="https://github.com/user-attachments/assets/2243133e-618f-4684-a5b9-8e279532c460" />
-      <p>Himalayan motorcycle expeditions across Ladakh, Spiti, Nepal & Bhutan.</p>
+      <h3>◉ <a href="https://destinationladakh.in/">Destination Ladakh Tourism.Co</a></h3>
+      <img src="https://github.com/user-attachments/assets/e7d6df4a-2762-430a-a506-00490f0ccea2" width="100%"/>
+      <p>Tourism platform for the Himalayan frontier.</p>
+    </td>
+    <td width="50%">
+      <h3>◬ <a href="https://thevintagevillas.com">The Vintage Villas</a></h3>
+      <img width="2000" height="2000" alt="1" src="https://github.com/user-attachments/assets/e640bbc3-12c1-4588-8efe-88494a8f1591" />
+      <p>Boutique villa experience.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⬟ <a href="https://ladakhhimalayanhub.com">Ladakh Himalayan Hub</a></h3>
+      <img src="https://github.com/user-attachments/assets/62cb3651-7a95-477f-bc2b-5f232b7812b0" width="100%"/>
+      <p>Adventure and travel hub for Ladakh explorers.</p>
     </td>
   </tr>
 </table>

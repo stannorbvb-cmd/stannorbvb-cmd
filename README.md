@@ -71,27 +71,23 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/stannorbvb-cmd/cpunk">cpunk</a></h3>
-      <p>Dark. Abrasive. Neon-lit. A theme for when the work feels like digging through corporate firewalls at 2am.</p>
-      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/cpunk/main/preview.png" width="100%"/>
-    </td>
-    <td width="50%">
       <h3><a href="https://github.com/stannorbvb-cmd/akaito">akaito</a></h3>
       <p>Light, precise, uncompromising. A rare thing: a light theme that doesn't apologize for itself.</p>
       <img src="https://raw.githubusercontent.com/stannorbvb-cmd/akaito/main/preview.png" width="100%"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/stannorbvb-cmd/axionmorph">axionmorph</a></h3>
       <p>A custom Omarchy theme.</p>
       <img src="https://raw.githubusercontent.com/stannorbvb-cmd/axionmorph/main/preview.png" width="100%"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3><a href="https://github.com/stannorbvb-cmd/omarchy-root-yaru-theme">omarchy-root-yaru-theme</a></h3>
       <p>A custom Omarchy theme.</p>
       <img src="https://raw.githubusercontent.com/stannorbvb-cmd/omarchy-root-yaru-theme/main/preview.png" width="100%"/>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 

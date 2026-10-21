@@ -1,156 +1,40 @@
-
-```
-   ▓█████▄  ▄▄▄      ▒███████▒ ▄▄▄       ██▓
-   ▒██▀ ██▌▒████▄    ▒ ▒ ▒ ▄▀░▒████▄    ▓██▒
-   ░██   █▌▒██  ▀█▄  ░ ▒ ▄▀▒░ ▒██  ▀█▄  ▒██▒
-   ░▓█▄   ▌░██▄▄▄▄██   ▄▀▒   ░░██▄▄▄▄██ ░██░
-   ░▒████▓  ▓█   ▓██▒▒███████▒ ▓█   ▓██▒░██░
-    ▒▒▓  ▒  ▒▒   ▓▒█░░▒▒ ▓░▒░▒ ▒▒   ▓▒█░░▓  
-    ░ ▒  ▒   ▒   ▒▒ ░░░▒ ▒ ░ ▒  ▒   ▒▒ ░ ▒ ░
-    ░ ░  ░   ░   ▒   ░ ░ ░ ░ ░  ░   ▒    ▒ ░
-      ░          ░  ░  ░ ░          ░  ░ ░  
-    ░                ░
-                  
-```
-
-<div align="center">
-  <sub>web designer · linux ricing · omarchy</sub>
-</div>
-
----
-I craft visual environments for the terminal native and the web alike. By day, a web designer building sites with WordPress and Elementor that are as considered as they are functional. By night, a Linux ricer crafting themes for the [Omarchy](https://omarchy.org) ecosystem: an opinionated Arch + Hyprland + Neovim setup for those who believe their tools should be beautiful.
-
-Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax harmony tuned together, not bolted on.
----
-## Tech Stack
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Ghostty](https://img.shields.io/badge/Ghostty-1a1a2e?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Kitty](https://img.shields.io/badge/Kitty-1a1a1a?style=for-the-badge&logo=kitty&logoColor=white)
-![ThinkPad](https://img.shields.io/badge/ThinkPad-EE0000?style=for-the-badge&logo=lenovo&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Omarchy](https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=archlinux&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-  <sub>drop a ★ if a theme made your terminal feel like home</sub>
-</div>
+<!-- widgets in /assets are re-rendered by .github/workflows/profile.yml — edit scripts/render.py, not the svgs -->
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"> <img alt="DAZAI — web designer · linux ricer · omarchy themes" src="assets/hero-dark.svg" width="100%"> </picture>
 
 
-## Themes
+I craft visual environments for the terminal and the web alike. By day, a web designer building sites with WordPress and Elementor that are as considered as they are functional. By night, a Linux ricer making themes for the Omarchy ecosystem — an opinionated Arch + Hyprland + Neovim setup for those who believe their tools should be beautiful.
+Each theme is a deliberate aesthetic system: palette, contrast ratios and syntax harmony tuned together, not bolted on.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/stannorbvb-cmd/bardo">bardo</a></h3>
-      <p>The space between. Muted tones, deliberate contrasts — designed for long sessions and clear thinking.</p>
-      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/bardo/main/preview.png" width="100%"/>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/stannorbvb-cmd/synthetica">synthetica</a></h3>
-      <p>Synthetic warmth. Analogue haze. The sound of a modular synth rendered in CSS.</p>
-      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/synthetica/main/preview.png" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/stannorbvb-cmd/cpunk">cpunk</a></h3>
-      <p>Dark. Abrasive. Neon-lit. A theme for when the work feels like digging through corporate firewalls at 2am.</p>
-      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/cpunk/main/preview.png" width="100%"/>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/stannorbvb-cmd/akaito">akaito</a></h3>
-      <p>Light, precise, uncompromising. A rare thing: a light theme that doesn't apologize for itself.</p>
-      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/akaito/main/preview.png" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/stannorbvb-cmd/axionmorph">axionmorph</a></h3>
-      <p>A custom Omarchy theme.</p>
-      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/axionmorph/main/preview.png" width="100%"/>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/stannorbvb-cmd/omarchy-root-yaru-theme">omarchy-root-yaru-theme</a></h3>
-      <p>A custom Omarchy theme.</p>
-      <img src="https://raw.githubusercontent.com/stannorbvb-cmd/omarchy-root-yaru-theme/main/preview.png" width="100%"/>
-    </td>
-  </tr>
-</table>
 
----
-## Web Design
-<table>
-  <tr>
-    <td width="50%">
-      <h3>⬡ <a href="https://rolangsrecords.com">Rolangs Records</a></h3>
-      <img src="https://github.com/user-attachments/assets/c0774b30-38b4-4a93-bd3d-80ed45bc5254" width="100%"/>
-      <p>Record Store.</p>
-    </td>
-    <td width="50%">
-      <h3>◈ <a href="https://bigfuz.com">Big Fuz</a></h3>
-      <img src="https://github.com/user-attachments/assets/f169392a-c52b-40db-b613-d61da5e5770a" width="100%"/>
-      <p>JamPad.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⏃ <a href="https://ladakhbiketriporganiser.com">Ladakh Bike Trip Organiser</a></h3>
-      <img width="1024" height="1024" alt="LBTO" src="https://github.com/user-attachments/assets/2243133e-618f-4684-a5b9-8e279532c460" />
-      <p>Himalayan motorcycle expeditions across Ladakh, Spiti, Nepal & Bhutan.</p>
-    </td>
-    <td width="50%">
-      <h3>⌬ <a href="https://astentours.com">Asten Tours</a></h3>
-      <img width="1555" height="1117" alt="Aturs-logo-cropped" src="https://github.com/user-attachments/assets/8d540559-59e6-4a77-a444-0fb27a1e37dd" />
-      <p>Customized Ladakh tours, BnB stays, and bike & taxi rentals.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>❀ <a href="https://ladakhherbs.com">LadakhHerbs</a></h3>
-      <img width="806" height="806" alt="log" src="https://github.com/user-attachments/assets/0be085ac-d921-4fe3-bde0-9727b51df2ed" />
-      <p>Organic Himalayan products straight from the valleys of Ladakh.</p>
-    </td>
-    <td width="50%">
-      <h3>⬢ <a href="https://hotelkesaarpalace.com">Kesaar Palace</a></h3>
-      <img src="https://github.com/user-attachments/assets/d9be721e-20e0-4efe-9c3d-d8d70c771b61" width="100%"/>
-      <p>Luxury hotel showcase.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>◉ <a href="https://destinationladakh.in/">Destination Ladakh Tourism.Co</a></h3>
-      <img src="https://github.com/user-attachments/assets/e7d6df4a-2762-430a-a506-00490f0ccea2" width="100%"/>
-      <p>Tourism platform for the Himalayan frontier.</p>
-    </td>
-    <td width="50%">
-      <h3>◬ <a href="https://thevintagevillas.com">The Vintage Villas</a></h3>
-      <img width="2000" height="2000" alt="1" src="https://github.com/user-attachments/assets/e640bbc3-12c1-4588-8efe-88494a8f1591" />
-      <p>Boutique villa experience.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⬟ <a href="https://ladakhhimalayanhub.com">Ladakh Himalayan Hub</a></h3>
-      <img src="https://github.com/user-attachments/assets/62cb3651-7a95-477f-bc2b-5f232b7812b0" width="100%"/>
-      <p>Adventure and travel hub for Ladakh explorers.</p>
-    </td>
-  </tr>
-</table>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/fetch-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="assets/fetch-light.svg"> <img alt="fastfetch: arch linux, hyprland, omarchy, zsh, neovim, ghostty, kitty, thinkpad; html, css, js, php, wordpress, elementor" src="assets/fetch-dark.svg" width="100%"> </picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/pulse-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="assets/pulse-light.svg"> <img alt="Contribution heatmap, weekly activity and language breakdown" src="assets/pulse-dark.svg" width="100%"> </picture>
+
+
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/head-themes-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="assets/head-themes-light.svg"> <img alt="Themes" src="assets/head-themes-dark.svg" width="100%"> </picture>
+<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/stannorbvb-cmd/bardo"><img src="https://raw.githubusercontent.com/stannorbvb-cmd/bardo/main/preview.png" alt="bardo" width="100%"></a> <a href="https://github.com/stannorbvb-cmd/bardo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/swatch-bardo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/swatch-bardo-light.svg"><img alt="bardo palette" src="assets/swatch-bardo-dark.svg" width="100%"></picture></a> <sub>The space between. Muted tones, deliberate contrasts — designed for long sessions and clear thinking.</sub> </td> <td width="50%" valign="top"> <a href="https://github.com/stannorbvb-cmd/synthetica"><img src="https://raw.githubusercontent.com/stannorbvb-cmd/synthetica/main/preview.png" alt="synthetica" width="100%"></a> <a href="https://github.com/stannorbvb-cmd/synthetica"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/swatch-synthetica-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/swatch-synthetica-light.svg"><img alt="synthetica palette" src="assets/swatch-synthetica-dark.svg" width="100%"></picture></a> <sub>Synthetic warmth. Analogue haze. The sound of a modular synth rendered in CSS.</sub> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://github.com/stannorbvb-cmd/cpunk"><img src="https://raw.githubusercontent.com/stannorbvb-cmd/cpunk/main/preview.png" alt="cpunk" width="100%"></a> <a href="https://github.com/stannorbvb-cmd/cpunk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/swatch-cpunk-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/swatch-cpunk-light.svg"><img alt="cpunk palette" src="assets/swatch-cpunk-dark.svg" width="100%"></picture></a> <sub>Dark. Abrasive. Neon-lit. A theme for when the work feels like digging through corporate firewalls at 2am.</sub> </td> <td width="50%" valign="top"> <a href="https://github.com/stannorbvb-cmd/akaito"><img src="https://raw.githubusercontent.com/stannorbvb-cmd/akaito/main/preview.png" alt="akaito" width="100%"></a> <a href="https://github.com/stannorbvb-cmd/akaito"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/swatch-akaito-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/swatch-akaito-light.svg"><img alt="akaito palette" src="assets/swatch-akaito-dark.svg" width="100%"></picture></a> <sub>Light, precise, uncompromising. A rare thing: a light theme that doesn't apologize for itself.</sub> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://github.com/stannorbvb-cmd/axionmorph"><img src="https://raw.githubusercontent.com/stannorbvb-cmd/axionmorph/main/preview.png" alt="axionmorph" width="100%"></a> <a href="https://github.com/stannorbvb-cmd/axionmorph"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/swatch-axionmorph-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/swatch-axionmorph-light.svg"><img alt="axionmorph palette" src="assets/swatch-axionmorph-dark.svg" width="100%"></picture></a> <sub>Acid chartreuse on black. Biomechanical, loud, built for the night shift.</sub> </td> <td width="50%" valign="top"> <a href="https://github.com/stannorbvb-cmd/omarchy-root-yaru-theme"><img src="https://raw.githubusercontent.com/stannorbvb-cmd/omarchy-root-yaru-theme/main/preview.png" alt="omarchy-root-yaru-theme" width="100%"></a> <a href="https://github.com/stannorbvb-cmd/omarchy-root-yaru-theme"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/swatch-omarchy-root-yaru-theme-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/swatch-omarchy-root-yaru-theme-light.svg"><img alt="omarchy-root-yaru-theme palette" src="assets/swatch-omarchy-root-yaru-theme-dark.svg" width="100%"></picture></a> <sub>Coral on oxblood. A dragon's palette — warm, ornate, slightly dangerous.</sub> </td> </tr> </table>
+
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/head-web-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="assets/head-web-light.svg"> <img alt="Web design" src="assets/head-web-dark.svg" width="100%"> </picture>
+<table> <tr> <td width="33%" align="center" valign="top"> <a href="https://rolangsrecords.com"><img src="https://github.com/user-attachments/assets/c0774b30-38b4-4a93-bd3d-80ed45bc5254" alt="Rolangs Records" height="150"></a>
+ <b>⬡ Rolangs Records</b>
+<sub>Record store</sub> </td> <td width="33%" align="center" valign="top"> <a href="https://bigfuz.com"><img src="https://github.com/user-attachments/assets/f169392a-c52b-40db-b613-d61da5e5770a" alt="Big Fuz" height="150"></a>
+ <b>◈ Big Fuz</b>
+<sub>JamPad</sub> </td> <td width="33%" align="center" valign="top"> <a href="https://ladakhbiketriporganiser.com"><img src="https://github.com/user-attachments/assets/2243133e-618f-4684-a5b9-8e279532c460" alt="Ladakh Bike Trip Organiser" height="150"></a>
+ <b>⏃ Ladakh Bike Trip Organiser</b>
+<sub>Himalayan motorcycle expeditions across Ladakh, Spiti, Nepal & Bhutan</sub> </td> </tr> <tr> <td width="33%" align="center" valign="top"> <a href="https://astentours.com"><img src="https://github.com/user-attachments/assets/8d540559-59e6-4a77-a444-0fb27a1e37dd" alt="Asten Tours" height="150"></a>
+ <b>⌬ Asten Tours</b>
+<sub>Customized Ladakh tours, BnB stays, bike & taxi rentals</sub> </td> <td width="33%" align="center" valign="top"> <a href="https://ladakhherbs.com"><img src="https://github.com/user-attachments/assets/0be085ac-d921-4fe3-bde0-9727b51df2ed" alt="LadakhHerbs" height="150"></a>
+ <b>❀ LadakhHerbs</b>
+<sub>Organic Himalayan products from the valleys of Ladakh</sub> </td> <td width="33%" align="center" valign="top"> <a href="https://hotelkesaarpalace.com"><img src="https://github.com/user-attachments/assets/d9be721e-20e0-4efe-9c3d-d8d70c771b61" alt="Kesaar Palace" height="150"></a>
+ <b>⬢ Kesaar Palace</b>
+<sub>Luxury hotel showcase</sub> </td> </tr> <tr> <td width="33%" align="center" valign="top"> <a href="https://destinationladakh.in/"><img src="https://github.com/user-attachments/assets/e7d6df4a-2762-430a-a506-00490f0ccea2" alt="Destination Ladakh Tourism.Co" height="150"></a>
+ <b>◉ Destination Ladakh</b>
+<sub>Tourism platform for the Himalayan frontier</sub> </td> <td width="33%" align="center" valign="top"> <a href="https://thevintagevillas.com"><img src="https://github.com/user-attachments/assets/e640bbc3-12c1-4588-8efe-88494a8f1591" alt="The Vintage Villas" height="150"></a>
+ <b>◬ The Vintage Villas</b>
+<sub>Boutique villa experience</sub> </td> <td width="33%" align="center" valign="top"> <a href="https://ladakhhimalayanhub.com"><img src="https://github.com/user-attachments/assets/62cb3651-7a95-477f-bc2b-5f232b7812b0" alt="Ladakh Himalayan Hub" height="150"></a>
+ <b>⬟ Ladakh Himalayan Hub</b>
+<sub>Adventure and travel hub for Ladakh explorers</sub> </td> </tr> </table>
+
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"> <img alt="drop a ★ if a theme made your terminal feel like home" src="assets/footer-dark.svg" width="100%"> </picture>

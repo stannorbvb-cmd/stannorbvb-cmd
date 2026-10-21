@@ -370,6 +370,8 @@ def hero(P: dict, D: dict) -> str:
             continue
         if 100 <= c <= 111 and r <= 5:   # moon
             continue
+        if 84 <= c <= 101 and 3 <= r <= 9:   # ufo
+            continue
         if r >= sky_top[c] - 1:
             continue
         g = rnd.choice("··········.*+")
@@ -385,6 +387,38 @@ def hero(P: dict, D: dict) -> str:
     s.add(f'<circle cx="{mx}" cy="{my}" r="27" fill="none" stroke="{P["dim"]}" stroke-width=".8" '
           f'stroke-dasharray="1 5" opacity=".7"/>')
     s.add(f'<circle cx="{mx}" cy="{my}" r="16" fill="{P["snow"]}" mask="url(#cres)"/>')
+
+    # ── ufo hovering over the peak at col 93, beam flickering onto its summit
+    uc, ur = 87, 4
+    ux = gx(uc, x0)
+    beam_top = gy(ur + 2, y0) + 2
+    beam_bot = y0 + 10 * LH + 6
+    bx = gx(93, x0)
+    s.defs.append(
+        f'<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">'
+        f'<stop offset="0" stop-color="{P["gold"]}" stop-opacity=".55"/>'
+        f'<stop offset="1" stop-color="{P["gold"]}" stop-opacity="0"/></linearGradient>'
+    )
+    s.css.append(
+        "@keyframes bob{0%,100%{transform:translateY(0) rotate(-1.5deg)}50%{transform:translateY(-5px) rotate(1.5deg)}}"
+        ".ufo{transform-box:fill-box;transform-origin:50% 50%;animation:bob 3.4s ease-in-out infinite}"
+        "@keyframes beam{0%,100%{opacity:.35}20%{opacity:.8}23%{opacity:.25}60%{opacity:.6}}"
+        ".beam{animation:beam 2.6s ease-in-out infinite}"
+        "@keyframes ul{0%,100%{opacity:.2}50%{opacity:1}}"
+        ".ul{animation:ul .9s ease-in-out var(--o) infinite}"
+    )
+    s.add('<g class="ufo">')
+    s.add(f'<polygon class="beam" points="{bx - 9:.1f},{beam_top:.1f} {bx + 9:.1f},{beam_top:.1f} '
+          f'{bx + 26:.1f},{beam_bot:.1f} {bx - 26:.1f},{beam_bot:.1f}" fill="url(#beam)"/>')
+    s.text(ux, gy(ur, y0), "     ___", fill=P["mute"])
+    s.text(ux, gy(ur + 1, y0), " ___/   \\___", fill=P["snow"])
+    s.text(gx(uc + 6, x0), gy(ur + 1, y0), "o", fill=P["accent"], bold=True)
+    s.text(ux, gy(ur + 2, y0), "(___________)", fill=P["snow"])
+    for i in range(5):
+        s.text(gx(uc + 2 + i * 2, x0), gy(ur + 2, y0) - 4, "·",
+               fill=(P["accent"], P["gold"], P["flags"][0], P["gold"], P["accent"])[i],
+               cls="ul", extra=f' style="--o:-{i * .18:.2f}s"')
+    s.add("</g>")
 
     # ── shooting star
     s.css.append(
